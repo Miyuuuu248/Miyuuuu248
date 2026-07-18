@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World!! I'm Mila Safira 👋
+
+![Mila Safira](img/MILA-GITHUB.png)
 
 <!--
 **Miyuuuu248/Miyuuuu248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🌱 I’m currently learning **UI/UX**
+--😎😎😎
+
+
+![huwaaaa](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdhNjcza3c0c2xwNnhxMzY3amI5eWNsNDd6dm5pZGJtcjJmbmFkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ai8iZqHx2i0fK/giphy.gif)
